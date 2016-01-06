@@ -6,6 +6,8 @@ title: About Me
   {{ page.title }}
 </h1> -->
 
+## About Me
+
 Hello, I'm Sagang, a student at the University of California, Berkeley pursuing a degree in Computer Science. 
 
 ## About This Site
