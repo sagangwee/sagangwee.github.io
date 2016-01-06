@@ -1,9 +1,18 @@
 ---
 layout: default
-title: Home
+title: About Me
 ---
+<!-- <h1 class="page-title">
+  {{ page.title }}
+</h1> -->
 
-<div class="posts">
+Hello, I'm Sagang, a student at the University of California, Berkeley pursuing a degree in Computer Science. 
+
+## About This Site
+
+This site is built using [Jekyll](https://jekyllrb.com/), and [Poole's](http://getpoole.com/) [Hyde](http://hyde.getpoole.com) theme. It is developed on GitHub using [GitHub Pages](https://pages.github.com). 
+
+<!-- <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
     <h1 class="post-title">
@@ -11,11 +20,11 @@ title: Home
         {{ post.title }}
       </a>
     </h1>
-    <!-- <span class="post-date">{{ post.date | date_to_string }}</span> -->
+    <span class="post-date">{{ post.date | date_to_string }}</span>
     {{ post.content }}
   </div>
   {% endfor %}
-</div>
+</div> -->
 
 <!-- <div class="pagination">
   {% if paginator.next_page %}

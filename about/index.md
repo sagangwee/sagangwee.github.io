@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
 Hello, I'm Sagang, a student at the University of California, Berkeley pursuing a degree in Computer Science. 
