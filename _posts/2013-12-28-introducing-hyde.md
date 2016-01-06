@@ -1,37 +1,69 @@
 ---
 layout: post
-title: Introducing Hyde
+title: Resume
+permalink: resume
 ---
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+<p class="message">
+	Hey there! Thanks for checking out my resume! Here's a <a href="resume/resume.pdf">pdf version</a> if you're interested. 
+</p>
 
-### Built on Poole
+### Education
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
+<strong>University of California, Berkeley</strong>  
+Bachelor of Arts, Computer Science, 2018
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+<strong>Coursework</strong>  
+Structure and Interpretation of Computer Programs, Data Structures, Machine Structures, Discrete Math and Probability
 
-### Hyde features
+<strong>Spring 2016</strong>  
+Designing Information Devices and Systems, Artificial Intelligence 
 
-In addition to the features of Poole, Hyde adds the following:
 
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/hyde#themes), available via `<body>` classes
+### Experience
 
-[Head to the readme](https://github.com/poole/hyde#readme) to learn more.
+<strong>Inditex</strong> | Costa Mesa, CA	
+<em>Sales Associate</em> (June 2015 – Aug. 2015)
 
-### Browser support
+* Meticulously maintained store to help push sales and fulfill department quotas
+* Provided courteous and prompt customer service, collaborated with sales team to efficiently accomplish tasks during peak hours, and assisted customers with styling decisions
 
-Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
+<strong>Newport Mesa Unified School District</strong> | Costa Mesa, CA 	
+<em>ED-Tech Intern</em> (Mar. 2014 – June 2014)
 
-### Download
+* Developed practical and responsible uses of technology to enhance the educational experience of teachers and students 
+* Mentored six elementary school students and fostered their technological development by teaching them about digital citizenship, plagiarism, copyright, and attribution
+* Guided students through building their own websites and online portfolios
+* Troubleshot issues with new standardized testing platform and aided teachers in technological transition 
 
-Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
 
-Thanks!
+### Projects
+
+<strong>PageRank with Spark</strong> | Python  
+(Dec. 2015)
+
+* Implemented PageRank algorithm using MapReduce in Apache Spark framework
+
+<strong>MIPS CPU</strong> | MIPS, Logisim  
+(Oct. 2015)
+
+* Built a 32-bit 5-stage two-cycle pipelined processor in Logisim that could run MIPS instructions after converting to machine code 
+
+<strong>Gitlet</strong> | Java  
+(April 2015)
+
+* Designed and implemented version control system modeled after Git
+
+<strong>Ants vs. SomeBees (pun intended)</strong> | Python  
+(Oct. 2014)
+
+* Created tower-defense game complete with a GUI, in which you must protect your Queen Ant and the Mother Colony by deploying various classes of ants against invading bees
+
+
+### Skills
+
+<strong>Languages/Frameworks</strong>  
+Java (4/5) , Python (3/5), C (2/5), HTML (2/5), CSS (2/5), Ruby on Rails (2/5), SQL (1/5)
+
+<strong>Software</strong>  
+Git (4/5), Photoshop (1/5)

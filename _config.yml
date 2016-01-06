@@ -7,15 +7,16 @@ highlighter:      null
 permalink:        pretty
 
 # Setup
-title:            Hyde
+title:            Sagang Wee
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+description:      'studies computer science at University of California, Berkeley'
+url:              http://sagangwee.xyz
 baseurl:          /
+# <a href="http://jekyllrb.com" target="_blank">Jekyll</a>
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Sagang Wee'
+  url:            https://github.com/sagangwee
 
 paginate:         5
 
@@ -23,7 +24,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/sagangwee
 
 paginate_path: "page:num"
 
@@ -32,3 +33,8 @@ gems:
   - redcarpet
   - jekyll-gist
   - pygments.rb
+
+#sudo apt-get install python-pygments
+#sudo gem install pygments.rb
+#sudo apt-get install ruby-dev
+#jekyll serve --host 0.0.0.0
