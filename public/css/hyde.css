@@ -177,6 +177,24 @@ a.sidebar-nav-item:focus {
 
 /* Base16 (http://chriskempson.github.io/base16/#default) */
 
+/* Event Finds */
+.theme-event-finds .sidebar {
+  background-color: #74afad;
+}
+.theme-event-finds .content a,
+.theme-event-finds .related-posts li a:hover {
+  color: #74afad;
+}
+
+/* RS Collab */
+.theme-rs-collab .sidebar {
+  background-color: #3b5998;
+}
+.theme-rs-collab .content a,
+.theme-rs-collab .related-posts li a:hover {
+  color: #3b5998;
+}
+
 /* Red */
 .theme-base-08 .sidebar {
   background-color: #ac4142;
