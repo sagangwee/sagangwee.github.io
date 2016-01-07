@@ -184,21 +184,6 @@ button:hover {
   opacity: 0.75;
 }
 
-@media (min-width: 48em) {
-  form {
-    max-width: 38rem;
-    margin-left: 20rem;
-    margin-right: 2rem;
-  }
-}
-
-@media (min-width: 64em) {
-  form {
-    margin-left: 22rem;
-    margin-right: 4rem;
-  }
-}
-
 /* Font Awesome */
 a i {
   transition: all 0.2s ease-in-out;
