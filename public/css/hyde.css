@@ -166,8 +166,37 @@ a.sidebar-nav-item:focus {
   }
 }
 
-#social {
-  
+button {
+  background-color: #3b5998;
+  color: #fff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 25px 25px;
+  height: 30px;
+  text-align: center;
+  border: 0;
+  transition: all 0.3 ease 0s;
+  opacity: 1;
+  margin: 10px 10px 10px 0px;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.75;
+}
+
+@media (min-width: 48em) {
+  form {
+    max-width: 38rem;
+    margin-left: 20rem;
+    margin-right: 2rem;
+  }
+}
+
+@media (min-width: 64em) {
+  form {
+    margin-left: 22rem;
+    margin-right: 4rem;
+  }
 }
 
 /* Font Awesome */
