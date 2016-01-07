@@ -166,6 +166,13 @@ a.sidebar-nav-item:focus {
   }
 }
 
+/* Font Awesome */
+a i {
+  transition: all 0.2s ease-in-out;
+}
+a i:hover {
+  opacity: .7;
+}
 
 
 /*

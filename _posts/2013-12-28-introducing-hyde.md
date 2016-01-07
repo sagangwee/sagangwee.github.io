@@ -14,7 +14,7 @@ permalink: resume
 Bachelor of Arts, Computer Science, 2018
 
 <strong>Coursework</strong>  
-Structure and Interpretation of Computer Programs, Data Structures, Machine Structures, Discrete Math and Probability
+Structure and Interpretation of Computer Programs, Data Structures, Machine Structures, Discrete Math and Probability, Ruby on Rails
 
 <strong>Spring 2016</strong>  
 Designing Information Devices and Systems, Artificial Intelligence 
