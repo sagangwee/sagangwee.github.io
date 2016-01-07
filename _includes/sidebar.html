@@ -10,7 +10,8 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">About</a>
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %} smoothScroll" href="#top">About</a>
+      <!-- href="{{ site.baseurl }}" -->
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -26,16 +27,20 @@
         {% endif %}
       {% endfor %} -->
 
-      <a class="sidebar-nav-item" href="{% post_url 2013-12-28-introducing-hyde %}">Resume</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub</a>
-      <a class="sidebar-nav-item" href="/contact/">Contact</a>
+      <a class="sidebar-nav-item smoothScroll" href="#Resume">Resume</a>
+      <a class="sidebar-nav-item smoothScroll" href="#contact">Contact</a>
       <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
+      <!-- href="{% post_url 2013-12-28-introducing-hyde %}" -->
 
     </nav>
-    
-    <a href="https://github.com/sagangwee"><i class="fa fa-github fa-lg"></i></a>&nbsp;
-    <a href="/contact/"><i class="fa fa-envelope fa-lg"></i></a>&nbsp;
-    <a href="https://www.linkedin.com/in/sagangwee"><i class="fa fa-linkedin fa-lg"></i></a>&nbsp;
+
+    <div id="social">
+      <p>
+        <a href="{{ site.github.repo }}"><i class="fa fa-github fa-lg"></i></a>&nbsp;
+        <a href="/contact/"><i class="fa fa-envelope fa-lg"></i></a>&nbsp;
+        <a href="https://www.linkedin.com/in/sagangwee"><i class="fa fa-linkedin fa-lg"></i></a>&nbsp;
+      </p>
+    </div>
 
     <p>&copy; Sagang Wee {{ site.time | date: '%Y' }}</p>
   </div>
