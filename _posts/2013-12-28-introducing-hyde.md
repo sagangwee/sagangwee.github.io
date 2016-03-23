@@ -16,13 +16,38 @@ Bachelor of Arts, Computer Science, 2018
 <strong>Coursework</strong>  
 Structure and Interpretation of Computer Programs, Data Structures, Machine Structures, Discrete Math and Probability, Ruby on Rails
 
-<strong>Spring 2016</strong>  
-Designing Information Devices and Systems, Artificial Intelligence 
+<strong>Current Coursework</strong>  
+Designing Information Devices and Systems, Artificial Intelligence, Web Design
+
+
+### Projects
+
+<strong>The Rap App</strong> | HTML, CSS, JavaScript, Python  
+(October 2015)
+
+* Web application that interactively suggests rhymes while you freestyle rap
+* Built at Cal Hacks 2015 in a team of 3
+* Responsible for site layout and scraping lyric data using the Beautiful Soup Python library
+
+<strong>Down to Split</strong> | HTML, CSS, Ruby on Rails   
+(December 2015 - Present)
+
+* Web application that helps users manage their debts and organize shopping trips by keeping track of expenses and displaying useful purchase statistics 
+
+<strong>PageRank with Spark</strong> | Python  
+(December 2015)
+
+* Implemented PageRank algorithm using MapReduce in Apache Spark framework 
+
+<strong>Gitlet</strong> | Java  
+(April 2015)
+
+* Designed and implemented version control system modeled after Git
 
 
 ### Experience
 
-<strong>Inditex</strong> | Costa Mesa, CA	
+<strong>Zara</strong> | Costa Mesa, CA	
 <em>Sales Associate</em> (June 2015 – Aug. 2015)
 
 * Meticulously maintained store to help push sales and fulfill department quotas
@@ -31,39 +56,17 @@ Designing Information Devices and Systems, Artificial Intelligence
 <strong>Newport Mesa Unified School District</strong> | Costa Mesa, CA 	
 <em>ED-Tech Intern</em> (Mar. 2014 – June 2014)
 
-* Developed practical and responsible uses of technology to enhance the educational experience of teachers and students 
 * Mentored six elementary school students and fostered their technological development by teaching them about digital citizenship, plagiarism, copyright, and attribution
-* Guided students through building their own websites and online portfolios
 * Troubleshot issues with new standardized testing platform and aided teachers in technological transition 
-
-
-### Projects
-
-<strong>PageRank with Spark</strong> | Python  
-(Dec. 2015)
-
-* Implemented PageRank algorithm using MapReduce in Apache Spark framework
-
-<strong>MIPS CPU</strong> | MIPS, Logisim  
-(Oct. 2015)
-
-* Built a 32-bit 5-stage two-cycle pipelined processor in Logisim that could run MIPS instructions after converting to machine code 
-
-<strong>Gitlet</strong> | Java  
-(April 2015)
-
-* Designed and implemented version control system modeled after Git
-
-<strong>Ants vs. SomeBees (pun intended)</strong> | Python  
-(Oct. 2014)
-
-* Created tower-defense game complete with a GUI, in which you must protect your Queen Ant and the Mother Colony by deploying various classes of ants against invading bees
 
 
 ### Skills
 
 <strong>Languages/Frameworks</strong>  
-Java (4/5) , Python (3/5), C (2/5), HTML (2/5), CSS (2/5), Ruby on Rails (2/5), SQL (1/5)
+<em>Proficient with:</em> Java, Python, C, Ruby on Rails, HTML, CSS  
+<em>Comfortable with:</em> JavaScript, SQL
 
 <strong>Software</strong>  
-Git (4/5), Photoshop (1/5)
+Git (4/5), Photoshop (1/5)  
+
+<strong>Full Stack Engineer</strong>
