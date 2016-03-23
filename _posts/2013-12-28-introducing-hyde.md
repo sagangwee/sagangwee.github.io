@@ -22,7 +22,7 @@ Designing Information Devices and Systems, Artificial Intelligence, Web Design
 
 ### Projects
 
-<strong>The Rap App</strong> | HTML, CSS, JavaScript, Python  
+<a href="https://www.ocf.berkeley.edu/~owenmj/"><strong>The Rap App</strong></a> | HTML, CSS, JavaScript, Python  
 (October 2015)
 
 * Web application that interactively suggests rhymes while you freestyle rap
@@ -68,5 +68,3 @@ Designing Information Devices and Systems, Artificial Intelligence, Web Design
 
 <strong>Software</strong>  
 Git (4/5), Photoshop (1/5)  
-
-<strong>Full Stack Engineer</strong>
