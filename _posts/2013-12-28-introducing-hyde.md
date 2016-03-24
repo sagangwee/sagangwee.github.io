@@ -33,6 +33,8 @@ Designing Information Devices and Systems, Artificial Intelligence, Web Design
 (December 2015 - Present)
 
 * Web application that helps users manage their debts and organize shopping trips by keeping track of expenses and displaying useful purchase statistics 
+* Built in a team with two UC Berkeley students
+* Responsible for site layout and implementing core functionality 
 
 <strong>PageRank with Spark</strong> | Python  
 (December 2015)
