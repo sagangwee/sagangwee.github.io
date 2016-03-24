@@ -45,7 +45,7 @@ Designing Information Devices and Systems, Artificial Intelligence, Web Design
 * Designed and implemented version control system modeled after Git
 
 
-### Experience
+### Non-Technical Experience
 
 <strong>Zara</strong> | Costa Mesa, CA	
 <em>Sales Associate</em> (June 2015 – Aug. 2015)
