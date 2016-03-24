@@ -323,6 +323,7 @@ footer {
   }
 }
 
-form {
-  
+#profile.resize {
+  width: 320px;
+  height: auto;
 }
