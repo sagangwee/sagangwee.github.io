@@ -69,4 +69,4 @@ Designing Information Devices and Systems, Artificial Intelligence, Web Design
 <em>Comfortable with:</em> JavaScript, SQL
 
 <strong>Software</strong>  
-Git (4/5), Photoshop (1/5)  
+Git, <a href="public/infographic.pdf">Illustrator</a>, Photoshop  
