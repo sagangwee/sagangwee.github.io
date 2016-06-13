@@ -14,10 +14,10 @@ permalink: resume
 Bachelor of Arts, Computer Science, 2018
 
 <strong>Coursework</strong>  
-Structure and Interpretation of Computer Programs, Data Structures, Machine Structures, Discrete Math and Probability, Ruby on Rails
+Structure and Interpretation of Computer Programs, Data Structures, Machine Structures, Discrete Math and Probability, Ruby on Rails, Web Design, Designing Information Devices and Systems, Artificial Intelligence
 
 <strong>Current Coursework</strong>  
-Designing Information Devices and Systems, Artificial Intelligence, Web Design
+Algorithms, Networking
 
 
 ### Projects
@@ -29,7 +29,7 @@ Designing Information Devices and Systems, Artificial Intelligence, Web Design
 * Built at Cal Hacks 2015 in a team of 3
 * Responsible for site layout and scraping lyric data using the Beautiful Soup Python library
 
-<strong>Down to Split</strong> | HTML, CSS, Ruby on Rails   
+<a href="http://down-to-split.herokuapp.com/"><strong>Down to Split</strong></a> | HTML, CSS, Ruby on Rails   
 (December 2015 - Present)
 
 * Web application that helps users manage their debts and organize shopping trips by keeping track of expenses and displaying useful purchase statistics 
