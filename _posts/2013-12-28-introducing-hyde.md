@@ -22,6 +22,12 @@ Algorithms, Networking
 
 ### Projects
 
+<a href="http://safespace-dev.herokuapp.com/"><strong>SafeSpace</strong></a> | HTML, CSS, JavaScript, Ruby on Rails  
+(June 2016 - August 2016)
+
+* An anonymous chat platform built with Ruby on Rails geared toward first-year and transfer UC Berkeley students seeking to connect with similar peers with an emphasis on mental well-being and support 
+* Updated user interface and implemented real-time dynamic system for peer counselor intervention using AJAX
+
 <a href="https://www.ocf.berkeley.edu/~owenmj/"><strong>The Rap App</strong></a> | HTML, CSS, JavaScript, Python  
 (October 2015)
 
@@ -65,8 +71,8 @@ Algorithms, Networking
 ### Skills
 
 <strong>Languages/Frameworks</strong>  
-<em>Proficient with:</em> Java, Python, C, Ruby on Rails, HTML, CSS  
-<em>Comfortable with:</em> JavaScript, SQL
+<em>Comfortable with:</em> Java, Python, Ruby on Rails, HTML, CSS  
+<em>Familiar with:</em> JavaScript, C, C#, SQL
 
 <strong>Software</strong>  
-Git, <a href="public/infographic.pdf">Illustrator</a>, Photoshop  
+Git, LaTeX, <a href="public/infographic.pdf">Illustrator</a>, Photoshop  
