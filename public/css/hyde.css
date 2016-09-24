@@ -294,6 +294,6 @@ a i:hover {
 
 
 /* Contact Form Styles */
-input {
+input, textarea {
   border-radius: 4px;
 }
