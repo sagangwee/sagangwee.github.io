@@ -291,3 +291,9 @@ a i:hover {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+
+/* Contact Form Styles */
+input {
+  border-radius: 4px;
+}
