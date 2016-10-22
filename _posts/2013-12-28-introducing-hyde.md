@@ -28,6 +28,8 @@ Algorithms, Networking
 * An anonymous chat platform built with Ruby on Rails geared toward first-year and transfer UC Berkeley students seeking to connect with similar peers with an emphasis on mental well-being and support 
 * Updated user interface and implemented real-time dynamic system for peer counselor intervention using AJAX
 
+<img id="safespace" src="public/projects/safespace.png">
+
 <a href="https://www.ocf.berkeley.edu/~owenmj/"><strong>The Rap App</strong></a> | HTML, CSS, JavaScript, Python  
 (October 2015)
 
@@ -35,12 +37,16 @@ Algorithms, Networking
 * Built at Cal Hacks 2015 in a team of 3
 * Responsible for site layout and scraping lyric data using the Beautiful Soup Python library
 
+<img id="rapapp" src="public/projects/rapapp.png">
+
 <a href="http://down-to-split.herokuapp.com/"><strong>Down to Split</strong></a> | HTML, CSS, Ruby on Rails   
 (December 2015 - Present)
 
 * Web application that helps users manage their debts and organize shopping trips by keeping track of expenses and displaying useful purchase statistics 
 * Built in a team with two UC Berkeley students
 * Responsible for site layout and implementing core functionality 
+
+<img id="downtosplit" src="public/projects/downtosplit.png">
 
 <strong>PageRank with Spark</strong> | Python  
 (December 2015)
