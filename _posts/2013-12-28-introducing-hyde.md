@@ -48,6 +48,13 @@ Algorithms, Networking
 
 <img id="downtosplit" src="public/projects/downtosplit.PNG">
 
+<a href="https://github.com/sagangwee/SD_Hacks_Jousting"><strong>Joust to Oust</strong></a> | C#, Unity   
+(October 2016)
+
+* 3D jousting computer game built with Unity in C# in which the player controls his/her lance using a smartphone  
+* Built at SD Hacks 2016
+* Created weapon animation and player avatar movement scripts
+
 <strong>PageRank with Spark</strong> | Python  
 (December 2015)
 
