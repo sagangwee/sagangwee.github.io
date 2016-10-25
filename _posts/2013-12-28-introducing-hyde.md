@@ -89,4 +89,4 @@ Algorithms, Networking
 <em>Familiar with:</em> JavaScript, C, C#, SQL
 
 <strong>Software</strong>  
-Git, LaTeX, <a href="public/infographic.pdf">Illustrator</a>, Photoshop  
+Git, LaTeX, Unity, <a href="public/infographic.pdf">Illustrator</a>, Photoshop  
