@@ -26,7 +26,8 @@ Algorithms, Networking
 (June 2016 - August 2016)
 
 * An anonymous chat platform built with Ruby on Rails geared toward first-year and transfer UC Berkeley students seeking to connect with similar peers with an emphasis on mental well-being and support 
-* Updated user interface and implemented real-time dynamic system for peer counselor intervention using AJAX
+* Communicated with client and development team to reach feature deadlines
+* Responsible for updating peer counselor interface, creating a friendly user tutorial, refactoring and maintaining code base, retrieving and parsing data from the Typeform API, and updating pages to dynamically load using AJAX
 
 <img id="safespace" src="public/projects/safespace.PNG">
 
@@ -51,7 +52,7 @@ Algorithms, Networking
 <a href="https://github.com/sagangwee/SD_Hacks_Jousting"><strong>Joust to Oust</strong></a> | C#, Unity   
 (October 2016)
 
-* 3D jousting computer game built with Unity in C# in which the player controls his/her lance using a smartphone  
+* 3D jousting computer game built in which the player controls his/her lance using a smartphone  
 * Built at SD Hacks 2016
 * Created weapon animation and player avatar movement scripts
 
