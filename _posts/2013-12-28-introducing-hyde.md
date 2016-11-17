@@ -43,7 +43,7 @@ Algorithms, Networking
 <a href="https://github.com/jalagar/selfspoken"><strong>Introspection</strong></a> | HTML, CSS, JavaScript, D3.js, Python, Flask   
 (October 2016)
 
-* Web application that lets users log journal entries and analyze their mental state over time using spider and line graphs; 
+* Web application that lets users log journal entries and analyze their mental state over time using spider and line graphs
 * Built at Cal Hacks 2016 in a team of 5
 * Responsible for creating a JSON API using tone-analysis data from the IBM Watson API, using D3.js to display aggregate spider graphs, and page styling
 
@@ -93,9 +93,9 @@ Algorithms, Networking
 
 ### Skills
 
-<strong>Languages/Frameworks</strong>  
+<strong>Languages</strong>  
 <em>Comfortable with:</em> Java, Python, Ruby on Rails, HTML, CSS  
 <em>Familiar with:</em> JavaScript, C, C#, SQL
 
-<strong>Software</strong>  
-Git, LaTeX, Unity, <a href="public/infographic.pdf">Illustrator</a>, Photoshop  
+<strong>Software/Frameworks</strong>  
+Git, Rails, Flask, LaTeX, Unity, Selenium WebDriver. <a href="public/infographic.pdf">Illustrator</a>, Photoshop  
