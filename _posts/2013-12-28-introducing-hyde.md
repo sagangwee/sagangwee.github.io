@@ -31,15 +31,6 @@ Algorithms, Networking
 
 <img id="safespace" src="public/projects/safespace.PNG">
 
-<a href="https://www.ocf.berkeley.edu/~owenmj/"><strong>The Rap App</strong></a> | HTML, CSS, JavaScript, Python  
-(October 2015)
-
-* Web application that interactively suggests rhymes while you freestyle rap
-* Built at Cal Hacks 2015 in a team of 3
-* Responsible for site layout and scraping lyric data using the Beautiful Soup Python library
-
-<img id="rapapp" src="public/projects/rapapp.PNG">
-
 <a href="http://down-to-split.herokuapp.com/"><strong>Down to Split</strong></a> | HTML, CSS, Ruby on Rails   
 (December 2015 - Present)
 
@@ -48,6 +39,24 @@ Algorithms, Networking
 * Responsible for site layout and implementing core functionality 
 
 <img id="downtosplit" src="public/projects/downtosplit.PNG">
+
+<a href="https://github.com/jalagar/selfspoken"><strong>Introspection</strong></a> | HTML, CSS, JavaScript, D3.js, Python, Flask   
+(October 2016)
+
+* Web application that lets users log journal entries and analyze their mental state over time using spider and line graphs; 
+* Built at Cal Hacks 2016 in a team of 5
+* Responsible for creating a JSON API using tone-analysis data from the IBM Watson API, using D3.js to display aggregate spider graphs, and page styling
+
+<img src="public/projects/introspection.PNG">
+
+<a href="https://www.ocf.berkeley.edu/~owenmj/"><strong>The Rap App</strong></a> | HTML, CSS, JavaScript, Python  
+(October 2015)
+
+* Web application that interactively suggests rhymes while you freestyle rap
+* Built at Cal Hacks 2015 in a team of 3
+* Responsible for site layout and scraping lyric data using the Beautiful Soup Python library
+
+<img id="rapapp" src="public/projects/rapapp.PNG">
 
 <a href="https://github.com/sagangwee/SD_Hacks_Jousting"><strong>Joust to Oust</strong></a> | C#, Unity   
 (October 2016)
