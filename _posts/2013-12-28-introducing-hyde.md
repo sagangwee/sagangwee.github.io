@@ -65,6 +65,8 @@ Algorithms, Networking
 * Built at SD Hacks 2016
 * Created weapon animation and player avatar movement scripts
 
+<img id="joust" src="public/projects/joust.PNG">
+
 <strong>PageRank with Spark</strong> | Python  
 (December 2015)
 
