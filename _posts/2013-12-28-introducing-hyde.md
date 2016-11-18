@@ -41,7 +41,7 @@ Algorithms, Networking
 <img id="downtosplit" src="public/projects/downtosplit.PNG">
 
 <a href="https://github.com/jalagar/selfspoken"><strong>Introspection</strong></a> | HTML, CSS, JavaScript, D3.js, Python, Flask   
-(October 2016)
+(November 2016)
 
 * Web application that lets users log journal entries and analyze their mental state over time using spider and line graphs
 * Built at Cal Hacks 2016 in a team of 5
@@ -61,14 +61,14 @@ Algorithms, Networking
 <a href="https://github.com/sagangwee/SD_Hacks_Jousting"><strong>Joust to Oust</strong></a> | C#, Unity   
 (October 2016)
 
-* 3D jousting computer game built in which the player controls his/her lance using a smartphone  
+* 3D jousting computer game in which the player controls his/her lance using a smartphone  
 * Built at SD Hacks 2016
 * Created weapon animation and player avatar movement scripts
 
 <img id="joust" src="public/projects/joust.PNG">
 
 <a href="http://food-mate.herokuapp.com/"><strong>FoodMate</strong></a> | HTML, CSS, Ruby on Rails   
-(October 2016)
+(December 2015)
 
 * My first Rails app, FoodMate uses the Yelp API to return restaurants near you depending on your current craving, and then matches you with "mates" that have similar food interests
 * Built in a team of 6
@@ -105,7 +105,7 @@ Algorithms, Networking
 ### Skills
 
 <strong>Languages</strong>  
-<em>Comfortable with:</em> Java, Python, Ruby on Rails, HTML, CSS  
+<em>Comfortable with:</em> Java, Python, Ruby, HTML, CSS  
 <em>Familiar with:</em> JavaScript, C, C#, SQL
 
 <strong>Software/Frameworks</strong>  
