@@ -67,6 +67,15 @@ Algorithms, Networking
 
 <img id="joust" src="public/projects/joust.PNG">
 
+<a href="http://food-mate.herokuapp.com/"><strong>FoodMate</strong></a> | HTML, CSS, Ruby on Rails   
+(October 2016)
+
+* My first Rails app, FoodMate uses the Yelp API to return restaurants near you depending on your current craving, and then matches you with "mates" that have similar food interests
+* Built in a team of 6
+* Responsible for implementing uploadeable profile pictures
+
+<img id="foodmate" src="public/projects/foodmate.PNG">
+
 <strong>PageRank with Spark</strong> | Python  
 (December 2015)
 
