@@ -297,3 +297,7 @@ a i:hover {
 input, textarea {
   border-radius: 4px;
 }
+
+textarea {
+  max-width: 95%;
+}
