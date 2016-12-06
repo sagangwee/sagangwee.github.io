@@ -299,5 +299,12 @@ input, textarea {
 }
 
 textarea {
+  width: 60%;
   max-width: 95%;
+}
+
+@media (min-width: 48em) {
+  textarea {
+    width: 95%;
+  }
 }
