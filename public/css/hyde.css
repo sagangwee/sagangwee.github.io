@@ -303,7 +303,7 @@ textarea {
   max-width: 95%;
 }
 
-@media (min-width: 48em) {
+@media only screen and (max-width: 480px) {
   textarea {
     width: 95%;
   }
