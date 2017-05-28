@@ -1,0 +1,26 @@
+---
+layout: default
+title: Books
+permalink: books
+---
+
+<h1 class="page-title">
+  {{ page.title }}
+</h1>
+
+<p class="message">
+	Some notes on books I've read so I don't forget what they were about.
+</p>
+
+<div class="posts">
+  {% for post in site.books %}
+  <a name="{{ post.title }}"></a>
+  <div class="post">
+    <h1 class="post-title" style="color: #639BF1;">
+      {{ post.title }}
+    </h1>
+    <!-- <span class="post-date">{{ post.date | date_to_string }}</span> -->
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
