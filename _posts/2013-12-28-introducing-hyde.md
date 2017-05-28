@@ -4,10 +4,6 @@ title: Resume
 permalink: resume
 ---
 
-<p class="message">
-	Hey there! Thanks for checking out my resume! Here's a <a href="resume/resume.pdf">pdf version</a> if you're interested. 
-</p>
-
 ### Education
 
 <strong>University of California, Berkeley</strong>  
