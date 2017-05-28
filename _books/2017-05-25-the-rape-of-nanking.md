@@ -9,12 +9,12 @@ date: 2017-05-25
 The most horrifying book I've ever read. Absolutely devastating.  
 Some atrocities over just a seven week period: 
 
-* 20000 - 80000 women ages 12 to 80 were raped
+* 20000 - 80000 women ages 12 to 80 raped
 * About 340000 people killed
 * About 200000 women sent into sexual slavery in "comfort houses"
 * Bayonetted babies into boiling water
-* Hang people by their tongues on metal hooks
-* Disemboweled women, sliced off their breasts and then nailed them to alive to walls
+* Hung people by their tongues on metal hooks
+* Disemboweled women, sliced off their breasts and then nailed them alive to walls
 * The Yangzte River literally ran red with blood  
 
 Lesson: When totalitarian regimes oppress the individual to the point where the individual loses all value and is treated as a means rather than an end (Kant anyone?) people can view others as insects or "pigs" (Japanese soldier: "A pig is more valuable now than the life of a [Chinese] human being. That's because a pig is edible."). They can become utterly ruthless and unfeeling.
