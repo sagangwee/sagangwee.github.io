@@ -22,8 +22,9 @@ paginate:         5
 
 # custom collection for book posts
 collections:
-  - books:
+  books:
     output: true
+    permalink: /:collection/:path
 
 # Custom vars
 version:          2.1.0
