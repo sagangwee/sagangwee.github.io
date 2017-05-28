@@ -14,13 +14,21 @@ permalink: resume
 Bachelor of Arts, Computer Science, 2018
 
 <strong>Coursework</strong>  
-Structure and Interpretation of Computer Programs, Data Structures, Machine Structures, Discrete Math and Probability, Ruby on Rails, Web Design, Designing Information Devices and Systems, Artificial Intelligence
+Structure and Interpretation of Computer Programs, Data Structures, Machine Structures, Discrete Math and Probability, Ruby on Rails, Web Design, Designing Information Devices and Systems, Artificial Intelligence, Algorithms, Networking
 
 <strong>Current Coursework</strong>  
-Algorithms, Networking
+Security
 
 
 ### Projects
+
+<a href="http://huashing.herokuapp.com/"><strong>Huashing Acupuncture</strong></a> | HTML, SASS, React.js + Flux, Express.js  
+(December 2016 - January 2017)
+
+* Website for an Arizonian acupuncture business (my roommate's mom's business to be exact)
+* Used Express.js as a server to process emails and the Contentful API as a cloud CMS for client use (so that testimonials and other content can be updated using a friendly GUI)
+
+<img id="huashing" src="public/projects/huashing.PNG">
 
 <a href="http://safespace-dev.herokuapp.com/"><strong>SafeSpace</strong></a> | HTML, CSS, JavaScript, Ruby on Rails  
 (June 2016 - August 2016)
