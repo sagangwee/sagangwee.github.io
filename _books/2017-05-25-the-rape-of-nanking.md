@@ -15,6 +15,6 @@ Some atrocities over just a seven week period:
 * Bayonetted babies into boiling water
 * Hang people by their tongues on metal hooks
 * Disemboweled women, sliced off their breasts and then nailed them to alive to walls
-* The Yangzte River literally ran red with blood 
+* The Yangzte River literally ran red with blood  
 
-Lesson: When totalitarian regimes oppresses the individual to the point where the individual loses all value and is treated as a means rather than an end (Kant anyone?) people can view others as insects or "pigs" (Japanese soldier: "A pig is more valuable now than the life of a [Chinese] human being. That's because a pig is edible."). They can become utterly ruthless and unfeeling.
+Lesson: When totalitarian regimes oppress the individual to the point where the individual loses all value and is treated as a means rather than an end (Kant anyone?) people can view others as insects or "pigs" (Japanese soldier: "A pig is more valuable now than the life of a [Chinese] human being. That's because a pig is edible."). They can become utterly ruthless and unfeeling.

@@ -1,6 +1,6 @@
 ---
 layout: book
-title: Born a Crime: Stories From a South African Childhood
+title: Born a Crime
 date: 2017-05-26
 ---
 

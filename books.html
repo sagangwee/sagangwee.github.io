@@ -14,13 +14,10 @@ permalink: books
 
 <div class="posts">
   {% for post in site.books %}
-  <a name="{{ post.title }}"></a>
-  <div class="post">
-    <h1 class="post-title" style="color: #639BF1;">
-      {{ post.title }}
-    </h1>
-    <span class="post-date">{{ post.date | date: '%B %d, %Y' }}</span>
-    {{ post.content }}
-  </div>
+	<h1 class="post-title" style="color: #639BF1;">
+	  {{ post.title }}
+	</h1>
+	<span class="post-date">{{ post.date | date: '%B %d, %Y' }}</span>
+	{{ post.content }}
   {% endfor %}
 </div>
