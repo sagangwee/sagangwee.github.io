@@ -13,7 +13,7 @@ permalink: books
 </p>
 
 <div class="posts">
-  {% for post in site.books %}
+  {% for post in site.books | sort: 'date' | reverse %}
 	<h1 class="post-title" style="color: #639BF1;">
 	  {{ post.title }}
 	</h1>
