@@ -8,8 +8,8 @@ date: 2017-05-18
 
 1. Be Impeccable With Your Word. Always speak the truth. 
 
-2. Don't Take Anything Personally. People are dealing with their problems and spheres of reality. 
+2. Don't Take Anything Personally. People are dealing with their own problems and spheres of reality. 
 
 3. Don't Make Assumptions. Be as clear as possible. Communicate.
 
-4. Always Do Your Best. You can never feel bad if you always give it you all.
+4. Always Do Your Best. You can never feel bad if you always give it your all.
