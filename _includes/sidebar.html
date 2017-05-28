@@ -35,7 +35,7 @@
         <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %} smoothScroll" href="#top">About</a>
         <a class="sidebar-nav-item smoothScroll" href="#Resume">Resume</a>
         <a class="sidebar-nav-item smoothScroll" href="#contact">Contact</a>
-        <a class="sidebar-nav-item" href="{{ site.baseurl }}/books">Books</a>
+        <a class="sidebar-nav-item" href="{{ site.baseurl }}{% link books.html %}">Books</a>
       {% endif %}
       <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
       <!-- href="{% post_url 2013-12-28-introducing-hyde %}" -->
