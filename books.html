@@ -15,10 +15,12 @@ permalink: books
 <div class="posts">
   {% assign sorted = (site.books | sort: 'date') | reverse %}
   {% for book in sorted %}
-	<h1 class="post-title" style="color: #639BF1;">
-	  {{ book.title }}
-	</h1>
-	<span class="post-date">{{ book.date | date: '%B %d, %Y' }}</span>
-	{{ book.content }}
+  	{% if book.title != "Feed" %}
+	  <h1 class="post-title" style="color: #639BF1;">
+	    {{ book.title }}
+	  </h1>
+	  <span class="post-date">{{ book.date | date: '%B %d, %Y' }}</span>
+	  {{ book.content }}
+	{% endif %}
   {% endfor %}
 </div>
