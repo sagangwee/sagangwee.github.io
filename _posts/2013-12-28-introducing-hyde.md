@@ -18,7 +18,7 @@ Security
 
 ### Projects
 
-<a href="http://huashing.herokuapp.com/"><strong>Huashing Acupuncture</strong></a> | HTML, SASS, React.js + Flux, Express.js  
+<a href="http://huashingacupuncture.com/"><strong>Huashing Acupuncture</strong></a> | HTML, SASS, React.js + Flux, Express.js  
 (December 2016 - January 2017)
 
 * Website for an Arizonian acupuncture business (my roommate's mom's business to be exact)
