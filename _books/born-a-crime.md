@@ -9,6 +9,9 @@ date: 2017-05-26
 Funny, light-hearted, enlightening, full of little life lessons.
 
 * Language is powerful: It tears down barriers and lets you connect with others.
+
 * "... language, even more than color, defines who you are to people."
+
 * "I understand that you have a culture and identity that exists beyond me. I see you as a human being."
+
 * "Being chosen is the greatest gift you can give to another human being."
