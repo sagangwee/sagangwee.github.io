@@ -24,7 +24,7 @@ Running shoes suck for running:
 
 * "Runners wearing top-of-the-line shoes are 123 percent more likely to get injured than runners in cheap shoes."
 
-* The impact of your legs from running can be up to twelve time your body weight.
+* The impact of your legs from running can be up to twelve times your body weight.
 
 * "The more cushioned the shoes, the less protection it provides." "Your legs and feet instinctively come down hard when they sense something squishy underfoot." They're trying to push through the soles "in search of a hard, stable platform."
 
