@@ -1,7 +1,7 @@
 ---
 layout: book
 title: The Color Purple
-date: 2017-05-19
+date: 2017-05-23
 ---
 
 <a href="https://www.goodreads.com/book/show/11486.The_Color_Purple" style="float: left; padding-right: 20px"><img border="0" alt="The Color Purple" src="https://images.gr-assets.com/books/1386925078m/11486.jpg" /></a><a href="https://www.goodreads.com/book/show/11486.The_Color_Purple">The Color Purple</a> by <a href="https://www.goodreads.com/author/show/7380.Alice_Walker">Alice Walker</a><br/>
