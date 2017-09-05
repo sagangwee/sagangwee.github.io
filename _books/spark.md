@@ -1,6 +1,6 @@
 ---
 layout: book
-title: Spark: The Revolutionary New Science of Exercise and the Brain
+title: Spark The Revolutionary New Science of Exercise and the Brain
 date: 2017-08-26
 ---
 
