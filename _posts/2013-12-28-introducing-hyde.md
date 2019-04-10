@@ -4,16 +4,22 @@ title: Resume
 permalink: resume
 ---
 
+### Experience
+
+<strong>Google, Inc.</strong> | Mountain View, CA
+<em>Software Engineer</em> (July 2018 - Present)
+
+<strong>TigerConnect</strong> | Santa Monica, CA 	
+<em>Software Engineering Intern</em> (June 2017 – August 2017)
+
+* Developed UI features on messenger web app (search, modals, drag&drop, etc.) using React + MobX
+* Designed and implemented weekly message data visualization dashboard during company hackathon that made it to production
+* Reduced page render time of message scrolling by 54% and initial page load by 38% through optimizations using Chrome DevTools and React Perf
+
 ### Education
 
 <strong>University of California, Berkeley</strong>  
 Bachelor of Arts, Computer Science, 2018
-
-<strong>Coursework</strong>  
-Structure and Interpretation of Computer Programs, Data Structures, Machine Structures, Discrete Math and Probability, Ruby on Rails, Web Design, Designing Information Devices and Systems, Artificial Intelligence, Algorithms, Networking
-
-<strong>Current Coursework</strong>  
-Security
 
 
 ### Projects
@@ -29,7 +35,7 @@ Security
 <a href="http://safespace-dev.herokuapp.com/"><strong>SafeSpace</strong></a> | HTML, CSS, JavaScript, Ruby on Rails  
 (June 2016 - August 2016)
 
-* An anonymous chat platform built with Ruby on Rails geared toward first-year and transfer UC Berkeley students seeking to connect with similar peers with an emphasis on mental well-being and support 
+* An anonymous chat platform built with Ruby on Rails geared toward first-year and transfer UC Berkeley students seeking to connect with similar peers with an emphasis on mental well-being and support
 * Communicated with client and development team to reach feature deadlines
 * Responsible for updating peer counselor interface, creating a friendly user tutorial, refactoring and maintaining code base, retrieving and parsing data from the Typeform API, and updating pages to dynamically load using AJAX
 
@@ -38,9 +44,9 @@ Security
 <a href="http://down-to-split.herokuapp.com/"><strong>Down to Split</strong></a> | HTML, CSS, Ruby on Rails   
 (December 2015 - Present)
 
-* Web application that helps users manage their debts and organize shopping trips by keeping track of expenses and displaying useful purchase statistics 
+* Web application that helps users manage their debts and organize shopping trips by keeping track of expenses and displaying useful purchase statistics
 * Built in a team with two UC Berkeley students
-* Responsible for site layout and implementing core functionality 
+* Responsible for site layout and implementing core functionality
 
 <img id="downtosplit" src="public/projects/downtosplit.PNG">
 
@@ -83,33 +89,11 @@ Security
 <strong>PageRank with Spark</strong> | Python  
 (December 2015)
 
-* Implemented PageRank algorithm using MapReduce in Apache Spark framework 
-
-<strong>Gitlet</strong> | Java  
-(April 2015)
-
-* Designed and implemented version control system modeled after Git
-
-
-### Non-Technical Experience
-
-<strong>Zara</strong> | Costa Mesa, CA	
-<em>Sales Associate</em> (June 2015 – Aug. 2015)
-
-* Meticulously maintained store to help push sales and fulfill department quotas
-* Provided courteous and prompt customer service, collaborated with sales team to efficiently accomplish tasks during peak hours, and assisted customers with styling decisions
-
-<strong>Newport Mesa Unified School District</strong> | Costa Mesa, CA 	
-<em>ED-Tech Intern</em> (Mar. 2014 – June 2014)
-
-* Mentored six elementary school students and fostered their technological development by teaching them about digital citizenship, plagiarism, copyright, and attribution
-* Troubleshot issues with new standardized testing platform and aided teachers in technological transition 
-
 
 ### Skills
 
 <strong>Languages</strong>  
-<em>Comfortable with:</em> Java, Python, Ruby, HTML, CSS  
+<em>Comfortable with:</em> Java, Python, HTML, CSS  
 <em>Familiar with:</em> JavaScript, C, C#, SQL
 
 <strong>Software/Frameworks</strong>  

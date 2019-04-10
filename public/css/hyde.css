@@ -178,6 +178,7 @@ button {
   opacity: 1;
   margin: 10px 10px 10px 0px;
   cursor: pointer;
+  border-radius: 6px;
 }
 
 button:hover {
