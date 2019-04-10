@@ -13,7 +13,7 @@ permalink: booknotes
 </p>
 
 <div class="posts">
-  {% assign sorted = (site.books | sort: 'date') | reverse %}
+  {% assign sorted = site.books | sort: 'date' | reverse %}
   {% for book in sorted %}
   	{% if book.title != "Feed" %}
 	  <h1 class="post-title" style="color: #639BF1;">
